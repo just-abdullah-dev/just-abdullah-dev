@@ -1,5 +1,5 @@
-- 👋 Hi, Here is Abdullah. I’m a full-stack web developer.
-- 👀 I’m interested in JavaScript and it's frameworks.
-- 👀 Next.js, React.js, Node.js, Express.js, MongoDB, Redux.
-- ⚡ Fun fact: I love to work.
-
+- 👋 Hi, here is Abdullah. I’m a software engineer.
+- 💡 I’m interested in JavaScript and its frameworks.
+- 🚀 Tech Stack: Next.js, React.js, Node.js, Express.js, MongoDB, MySQL, Redux.
+- 📚 Currently Learning: AI/ML, Computer Vision, Python, FastAPI.
+- 😄 Fun Fact: I genuinely enjoy working!
