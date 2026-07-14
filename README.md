@@ -1,7 +1,7 @@
 - 👋 Hi, here is Abdullah. I’m a software engineer.
-- 💡 Languages: HTML, CSS, JavaScript, PHP, TypeScript, Python.
-- 🚀 Frameworks & Libraries: Next.js, React.js, Node.js, Express.js, FastAPI.
-- 🛢️ Databases: MongoDB, MySQL, PostgreSQL.
+- 💡 Languages: JavaScript, TypeScript, Python, HTML, CSS.
+- 🚀 Frameworks & Libraries: Next.js, React.js, Node.js, Nest.js, Express.js, FastAPI.
+- 🛢️ Databases(SQL, NoSQL): MongoDB, MySQL, PostgreSQL.
 - 📚 Currently Learning: AI/ML, Computer Vision.
 - 😄 Fun Fact: I genuinely enjoy working!
 - 🌐 Portfolio: https://just-abdullah.vercel.app
